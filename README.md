@@ -1,4 +1,4 @@
 # First-Repos
 This is my first Git repository
 <br>
-Author Asad Ali
+Author - Asad Ali(Mughal)
